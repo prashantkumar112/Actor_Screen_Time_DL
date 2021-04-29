@@ -1,0 +1,25 @@
+[I 09:10:44.148 NotebookApp] JupyterLab extension loaded from /home/prashant/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 09:10:44.148 NotebookApp] JupyterLab application directory is /home/prashant/anaconda3/share/jupyter/lab
+[I 09:10:44.151 NotebookApp] Serving notebooks from local directory: /home/prashant/Downloads/analytics_vidya/Actor_Screen_Time_DL/source
+[I 09:10:44.151 NotebookApp] The Jupyter Notebook is running at:
+[I 09:10:44.151 NotebookApp] http://localhost:8888/?token=0374ecc6227afbbf6bb229b92cc6fb530840a1300dff6bb4
+[I 09:10:44.151 NotebookApp]  or http://127.0.0.1:8888/?token=0374ecc6227afbbf6bb229b92cc6fb530840a1300dff6bb4
+[I 09:10:44.151 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:10:44.288 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/prashant/.local/share/jupyter/runtime/nbserver-23305-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=0374ecc6227afbbf6bb229b92cc6fb530840a1300dff6bb4
+     or http://127.0.0.1:8888/?token=0374ecc6227afbbf6bb229b92cc6fb530840a1300dff6bb4
+[E 09:10:46.648 NotebookApp] Could not open static file ''
+[W 09:10:46.975 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 44.44ms referer=http://localhost:8888/tree?token=0374ecc6227afbbf6bb229b92cc6fb530840a1300dff6bb4
+[W 09:10:47.116 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 4.16ms referer=http://localhost:8888/tree?token=0374ecc6227afbbf6bb229b92cc6fb530840a1300dff6bb4
+[W 09:10:48.655 NotebookApp] 404 GET /api/kernels/651f6b2b-e470-4bb3-8517-69f197c8c4d9/channels?session_id=e68be7dc28ce4b7b82f432765797a260 (127.0.0.1): Kernel does not exist: 651f6b2b-e470-4bb3-8517-69f197c8c4d9
+[W 09:10:48.658 NotebookApp] 404 GET /api/kernels/651f6b2b-e470-4bb3-8517-69f197c8c4d9/channels?session_id=e68be7dc28ce4b7b82f432765797a260 (127.0.0.1) 42.64ms referer=None
+[I 09:11:03.270 NotebookApp] 302 GET / (127.0.0.1) 0.53ms
+[W 09:11:03.438 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 1.96ms referer=http://localhost:8888/tree?
+[W 09:11:03.506 NotebookApp] 404 GET /static/components/react/react-dom.production.min.js (127.0.0.1) 2.03ms referer=http://localhost:8888/tree?
+[I 09:11:21.182 NotebookApp] Shutting down on /api/shutdown request.
+[I 09:11:21.183 NotebookApp] Shutting down 0 kernels
+jupyter_http_over_ws extension initialized. Listening on /http_over_websocket
